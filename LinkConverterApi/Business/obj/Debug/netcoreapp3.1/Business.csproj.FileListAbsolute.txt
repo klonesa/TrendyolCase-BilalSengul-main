@@ -1,0 +1,12 @@
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\bseng\OneDrive\Masaüstü\Github\Trendyol\TrendyolCase-BilalSengul\LinkConverterApi\Business\obj\Debug\netcoreapp3.1\Business.pdb
